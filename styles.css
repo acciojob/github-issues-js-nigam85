@@ -1,2 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
 
-/* Your CSS Code here. */
+h1 {
+  color: #333;
+}
+
+#page-number {
+  font-size: 20px;
+  margin: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+}
+
+button {
+  background-color: #0074D9;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
